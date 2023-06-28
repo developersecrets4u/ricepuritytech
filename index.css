@@ -1,0 +1,19 @@
+body {
+    margin-left: 5em;
+    margin-right: 5em;
+    font-family: 'Source Code Pro', monospace;
+    background-color: black;
+    color: forestgreen;
+}
+
+a {
+    color: green;
+}
+
+li {
+    margin-top: 1px;
+}
+
+#score{
+    color: crimson;
+}
